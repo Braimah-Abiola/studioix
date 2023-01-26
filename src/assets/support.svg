@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="88" viewBox="0 0 85 88">
+  <defs>
+    <filter id="Ellipse_198_Stroke_" x="14.563" y="18.599" width="55.063" height="53.053" filterUnits="userSpaceOnUse">
+      <feOffset dy="1.037" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.479" result="blur"/>
+      <feFlood flood-opacity="0.055"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_35680" data-name="Group 35680" transform="translate(-1276 -1931)">
+    <rect id="Fill" width="85" height="88" rx="40" transform="translate(1276 1931)" fill="#ecf2ff"/>
+    <g id="headphone" transform="translate(1298 1956)">
+      <g transform="matrix(1, 0, 0, 1, -22, -25)" filter="url(#Ellipse_198_Stroke_)">
+        <path id="Ellipse_198_Stroke_2" data-name="Ellipse 198 (Stroke)" d="M20.094,4.019A16.075,16.075,0,0,0,4.019,20.094H8.038a6.028,6.028,0,0,1,6.028,6.028V32.15a6.028,6.028,0,0,1-6.028,6.028H6.028A6.028,6.028,0,0,1,0,32.15V20.094a20.094,20.094,0,0,1,40.188,0V32.15a6.028,6.028,0,0,1-6.028,6.028H32.15a6.028,6.028,0,0,1-6.028-6.028V26.122a6.028,6.028,0,0,1,6.028-6.028h4.019A16.075,16.075,0,0,0,20.094,4.019ZM36.169,24.113H32.15a2.009,2.009,0,0,0-2.009,2.009V32.15A2.009,2.009,0,0,0,32.15,34.16H34.16a2.009,2.009,0,0,0,2.009-2.009Zm-32.15,0V32.15A2.009,2.009,0,0,0,6.028,34.16H8.038a2.009,2.009,0,0,0,2.009-2.009V26.122a2.009,2.009,0,0,0-2.009-2.009Z" transform="translate(22 25)" fill="#3e72ff"/>
+      </g>
+    </g>
+  </g>
+</svg>

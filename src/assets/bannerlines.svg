@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1640" height="835" viewBox="0 0 1640 835">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b9acd1"/>
+      <stop offset="1" stop-color="#6e5e8d" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Lines" transform="translate(-114.638)" opacity="0.4">
+    <g id="Group_1000001643" data-name="Group 1000001643" transform="translate(114.638)">
+      <rect id="Rectangle_3722" data-name="Rectangle 3722" width="1" height="835" transform="translate(0)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_3723" data-name="Rectangle 3723" width="1" height="835" transform="translate(206)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_3724" data-name="Rectangle 3724" width="1" height="835" transform="translate(411)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_3725" data-name="Rectangle 3725" width="1" height="835" transform="translate(614)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_3726" data-name="Rectangle 3726" width="1" height="835" transform="translate(821)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_3731" data-name="Rectangle 3731" width="1" height="835" transform="translate(1025)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_3732" data-name="Rectangle 3732" width="3" height="835" transform="translate(1228)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_3733" data-name="Rectangle 3733" width="1" height="835" transform="translate(1434)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_3734" data-name="Rectangle 3734" width="1" height="835" transform="translate(1639)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
