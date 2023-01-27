@@ -19,7 +19,7 @@ const Hero = () =>  (
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper cursus enim eu tempor. Phasellus a ultrices sapien. Etiam ultricies tortor sed dui posuere consectetur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
         </p>
 
-      <div className="mt-10 z-[1]">
+      <div className="flex flex-row flex-wrap sm:mt-10 mt-6 mt-10 z-[1]">
         <BookCall/>
         <LearnMore/>
       </div>

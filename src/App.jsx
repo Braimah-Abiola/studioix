@@ -1,5 +1,5 @@
 import React from 'react'
-import {Navbar, Hero, Clients, Services, CTA, Testimonials, Plans, Newsletter, Footer} from './components'
+import {Navbar, Hero, Clients, Services, CTA, Testimonials, Plans, Newsletter, Footer, Workflow, PreviousWork} from './components'
 import styles from './style';
 import {bannerlines, bannerstar, parallelogram} from "./assets"
 
@@ -25,6 +25,8 @@ const App = () =>  (
       <div className={`${styles.boxWidth}`}>
           <Clients/>
           <Services/>
+          <Workflow/>
+          <PreviousWork/>
           <Plans/>
           <Testimonials/>
           <CTA/>

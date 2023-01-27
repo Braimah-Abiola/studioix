@@ -11,6 +11,8 @@ import Stats from "./Stats";
 import Plans from "./Plans";
 import Newsletter from "./Newsletter";
 import Footer from "./Footer";
+import PreviousWork from "./PreviousWork";
+import Workflow from "./Workflow";
 
 
 export{
@@ -27,4 +29,6 @@ export{
   Plans,
   Newsletter,
   Footer,
+  Workflow,
+  PreviousWork,
 }

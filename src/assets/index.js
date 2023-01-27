@@ -30,6 +30,13 @@ import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
+import arrowdown from "./arrowdown.svg";
+import workflowstar from "./workflowstar.svg"
+import card01 from "./card01.svg"
+import card02 from "./card02.svg"
+import card03 from "./card03.svg"
+import seekout01 from "./seekout01.png"
+import seekout02 from "./seekout02.jpg"
 
 
 export{
@@ -65,4 +72,11 @@ export{
     webdev,
     next,
     newsletterstar,
+    arrowdown,
+    workflowstar,
+    card01,
+    card02,
+    card03,
+    seekout01,
+    seekout02,
 }

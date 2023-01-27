@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="893" height="756" viewBox="0 0 893 756">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Rectangle_392" data-name="Rectangle 392" d="M25,0H680a25,25,0,0,1,25,25V683a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V25A25,25,0,0,1,25,0Z" transform="translate(0.025 -0.396)" fill="#13131b"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#68a7fa"/>
+      <stop offset="1" stop-color="#6ef19a"/>
+    </linearGradient>
+  </defs>
+  <g id="Card03" transform="translate(0.169 0.197)">
+    <path id="BG" d="M25,0H680a25,25,0,0,1,25,25V690a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V25A25,25,0,0,1,25,0Z" transform="translate(187.831 45.803)" fill="#ecf4ff"/>
+    <g id="Shape" transform="translate(187.805 46.198)">
+      <g id="Rectangle_392-2" data-name="Rectangle 392" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Intersect" d="M748.955,497.448H706.084c-9.474-22.82-21.025-39.535-35.486-52.019-21.481-18.544-51.971-29.984-98.9-34.961-45.286-4.8-100.811,4.973-156.193,18.216-18.371,4.393-36.955,9.241-54.985,13.945h0c-34.41,8.977-66.8,17.428-91.851,21.185-42.465,6.37-80.6-6.23-101.69-36.731-20.951-30.3-20.841-72.178-.342-115.637,18.747-39.743,46.688-99.3,55.458-157.908,8.674-57.966-1.852-109.828-53.921-142.5C159.958,5.888,149.833,2.221,138.02,0h80.69c44.848,44.121,51.358,103.841,43.034,159.473-9.715,64.922-40.061,129.252-58.476,168.291l-.372.788c-16.624,35.242-13.173,60.932-2.941,75.732,10.1,14.6,30.984,24.649,62.764,19.882,23.047-3.457,51.706-10.95,84.411-19.5,18.486-4.833,38.263-10,59.051-14.975,55.616-13.3,117.028-24.684,169.746-19.092,51.077,5.417,90.749,18.479,120.869,44.482C720.776,435.781,737.061,463.27,748.955,497.448Z" transform="translate(44.123 0.198)" fill="#fff"/>
+        <path id="Intersect-2" data-name="Intersect" d="M138.316,0A429.685,429.685,0,0,0,95.061,8.173,641.644,641.644,0,0,0,0,39.464V7.425A7.425,7.425,0,0,1,7.425,0Z" transform="translate(-22.805 0.198)" fill="#fff"/>
+        <path id="Intersect-3" data-name="Intersect" d="M610.935,497.447H568.064c-9.474-22.82-21.025-39.535-35.486-52.019-21.48-18.544-51.971-29.984-98.9-34.961-45.286-4.8-100.811,4.973-156.193,18.216-18.371,4.393-36.955,9.241-54.985,13.945h0c-34.41,8.977-66.8,17.428-91.851,21.185-42.465,6.37-80.6-6.23-101.69-36.731-20.951-30.3-20.841-72.178-.342-115.637C47.362,271.7,75.3,212.147,84.072,153.539c8.674-57.966-1.852-109.828-53.921-142.5C21.938,5.888,11.813,2.221,0,0H80.69c44.848,44.121,51.358,103.841,43.034,159.473-9.715,64.922-40.061,129.252-58.476,168.291l-.372.788c-16.624,35.242-13.173,60.932-2.941,75.732,10.1,14.6,30.984,24.649,62.764,19.882,23.047-3.457,51.706-10.95,84.411-19.5,18.486-4.833,38.263-10,59.051-14.975,55.616-13.3,117.028-24.684,169.746-19.092,51.077,5.417,90.749,18.479,120.87,44.482C582.756,435.781,599.041,463.27,610.935,497.447Z" transform="matrix(-0.866, 0.5, -0.5, -0.866, 685.296, 877.976)" fill="#fff"/>
+        <path id="Intersect-4" data-name="Intersect" d="M138.316,0A429.686,429.686,0,0,0,95.061,8.173,641.645,641.645,0,0,0,0,39.464V7.425A7.425,7.425,0,0,1,7.425,0Z" transform="matrix(-0.866, 0.5, -0.5, -0.866, 862.787, 775.501)" fill="#fff"/>
+        <path id="Intersect-5" data-name="Intersect" d="M499.834,406.985H464.759c-7.751-18.67-17.2-32.345-29.033-42.559-17.574-15.172-42.52-24.531-80.913-28.6-37.05-3.93-82.478,4.069-127.789,14.9-15.03,3.594-30.235,7.561-44.986,11.409h0c-28.152,7.344-54.655,14.258-75.147,17.332-34.743,5.211-65.946-5.1-83.2-30.051-17.141-24.793-17.051-59.052-.28-94.608,15.338-32.516,38.2-81.242,45.372-129.192,7.1-47.424-1.515-89.855-44.115-116.585C17.949,4.817,9.664,1.817,0,0H66.016c36.692,36.1,42.019,84.957,35.208,130.472-7.948,53.116-32.776,105.747-47.842,137.687l-.3.644c-13.6,28.833-10.777,49.851-2.406,61.96,8.261,11.948,25.349,20.166,51.35,16.266,18.856-2.828,42.3-8.958,69.061-15.954,15.124-3.954,31.305-8.184,48.312-12.251,45.5-10.881,95.746-20.195,138.877-15.62,41.789,4.432,74.246,15.118,98.889,36.393C476.78,356.533,490.1,379.023,499.834,406.985Z" transform="translate(-102.175 635.021) rotate(-120.838)" fill="#fff"/>
+        <path id="Intersect-6" data-name="Intersect" d="M113.163,0A351.547,351.547,0,0,0,77.773,6.687,524.959,524.959,0,0,0,0,32.287V6.074A6.074,6.074,0,0,1,6.074,0Z" transform="translate(-16.221 778.993) rotate(-120.838)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Card" transform="translate(0 558.396)">
+      <rect id="BG-2" data-name="BG" width="482" height="197" rx="10" transform="translate(-0.169 0.406)" fill="#fff"/>
+      <text id="External_data" data-name="External data" transform="translate(240.831 64.406)" fill="#3e4581" font-size="37" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-130.24" y="0">Get your files!</tspan></text>
+      <text id="This_allows_them_to_see_current_key_performance_.." data-name="This allows them to see current key performance .." transform="translate(240.831 116.392)" fill="#3e4581" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-152.113" y="0">This allows them to see </tspan><tspan x="-167.425" y="31">current key performance ..</tspan></text>
+    </g>
+    <g id="Card-2" data-name="Card" transform="translate(299.284 0)">
+      <rect id="BG-3" data-name="BG" width="486" height="529" rx="10" transform="translate(-0.453 -0.197)" fill="#fff"/>
+      <g id="Earning" transform="translate(82.514 200.827)">
+        <text id="Earning-2" data-name="Earning" transform="translate(124.033 251.975)" fill="#a6a6a6" font-size="13.14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="12.363" y="14">Earning</tspan></text>
+        <text id="_15_000_" data-name="$15,000+" transform="translate(65.033 234.975)" fill="#3e4581" font-size="43" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">$15,000</tspan><tspan x="0" y="64">+</tspan></text>
+        <path id="Vector_229" data-name="Vector 229" d="M194.32,63.375,215.851,11.4C77.754-37.6-7.629,82.679.538,156.925H53.253C64.389,84.164,117.846,41.1,194.32,63.375Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+        <path id="Vector_230" data-name="Vector 230" d="M115.823,94.558l-20.789,45.29C52.715,130.939,0,72.285,0,0H52.714C62.366,56.693,83.9,70.057,115.823,94.558Z" transform="translate(318.31 157.191) rotate(180)" fill="rgba(208,180,168,0.14)"/>
+      </g>
+      <g id="Earn_per_day" data-name="Earn per day" transform="translate(79.341 71.306)">
+        <text id="Earn_per_day-2" data-name="Earn per day" transform="translate(24.206 46.497)" fill="#a6a6a6" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="13">Earn per day</tspan></text>
+        <text id="_500_" data-name="$500+" transform="translate(24.206 0.497)" fill="#3e4581" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="21">$500+</tspan></text>
+        <circle id="Ellipse_710" data-name="Ellipse 710" cx="6" cy="6" r="6" transform="translate(0.206 15.497)" fill="#ff7138"/>
+      </g>
+      <g id="Pay_us" data-name="Pay us" transform="translate(311.336 71.306)">
+        <text id="Pay_us-2" data-name="Pay us" transform="translate(24.211 46.497)" fill="#a6a6a6" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="13">Pay us</tspan></text>
+        <text id="_50" data-name="$50" transform="translate(24.211 0.497)" fill="#3e4581" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="21">$50</tspan></text>
+        <circle id="Ellipse_711" data-name="Ellipse 711" cx="6" cy="6" r="6" transform="translate(0.211 15.497)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Card-3" data-name="Card" transform="translate(708.038 345.483)">
+      <rect id="BG-4" data-name="BG" width="185" height="222" rx="10" transform="translate(-0.207 0.32)" fill="#fff"/>
+      <text id="Dashboard" transform="translate(37.793 35.32)" fill="#3e4581" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="13">Dashboard</tspan></text>
+      <g id="Shape-2" data-name="Shape" transform="translate(36.081 89.962)">
+        <rect id="Rectangle_140" data-name="Rectangle 140" width="19.577" height="95.461" rx="7.631" transform="translate(92.724)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_141" data-name="Rectangle 141" width="19.577" height="29.947" rx="7.631" transform="translate(61.816 65.723)" fill="#3e4581"/>
+        <rect id="Rectangle_142" data-name="Rectangle 142" width="19.577" height="39.552" rx="7.631" transform="translate(30.908 55.525)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_143" data-name="Rectangle 143" width="19.577" height="94.164" rx="7.631" transform="translate(0 1.133)" fill="#3e4581"/>
+      </g>
+    </g>
+  </g>
+</svg>
