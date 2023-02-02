@@ -3,7 +3,7 @@ import { arrowdown, seekout01, seekout02 } from '../assets';
 import styles from '../style';
 
 const PreviousWork = () => (
-<section className={`${styles.paddingY} ${styles.flexCenter} flex-col relative `}>
+<section id="work" className={`${styles.paddingY} ${styles.flexCenter} flex-col relative `}>
 
 <div className="absolute z-[0] w-[30%] h-[30%] -left-[50%] rounded-full blue__gradient bottom-40" />
 

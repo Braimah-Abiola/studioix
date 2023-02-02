@@ -16,7 +16,7 @@ const Hero = () =>  (
         </div>
 
         <p className={`${styles.paragraph} max-w-[580px] mt-5 z-[1]`}>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper cursus enim eu tempor. Phasellus a ultrices sapien. Etiam ultricies tortor sed dui posuere consectetur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+        A digital agency specialized in providing value-focused UI/UX design and development services for startups, brands, and indiehackers, just like us.
         </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6 mt-10 z-[1]">

@@ -26,6 +26,14 @@
   color: white;
 }
 
+.services-txt{
+  color: white;
+}
+
+.services-txt:hover{
+  color: white;
+}
+
 .text-nav{
   color: #3E4581;
 }
@@ -76,6 +84,12 @@
   outline: auto;
   background: transparent;
   color: #3E72FF;
+}
+
+.learn-more-btn:hover{
+  outline: auto;
+  background: #3E72FF;
+  color: white;
 }
 
 .bt-blue-gradient {
@@ -177,6 +191,15 @@
 .feedback-card:hover {
   /*background: var(--black-gradient);*/
   background: #3E4581;
+}
+
+.services-card {
+  background: white;
+}
+
+.services-card:hover {
+  /*background: var(--black-gradient);*/
+  background: white;
 }
 
 .blue__gradient {

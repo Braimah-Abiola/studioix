@@ -30,12 +30,12 @@ const Footer = () => (
 
     </div>
 
-    <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3F3E45]">
+    <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#D5DFF3]">
       <p className="w-full font-poppins font-normal text-center text-[16px] leading-[27px] text-dimBlack">
-        Copyright Ⓒ 2022 Hexagram. All Rights Reserved.
+        Copyright Ⓒ 2023 StudioIx. All Rights Reserved.
       </p>
-
     </div>
+
   </section>
 );
 
